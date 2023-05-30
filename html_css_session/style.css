@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  height: 80px;
+  background-color: gray;
+  justify-content: center;
+  align-items: center;
+}
+.Item {
+  padding: 20px;
+  border: 3px solid black;
+  background: white;
+}
